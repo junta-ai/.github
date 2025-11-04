@@ -27,6 +27,9 @@ Na **Junta.ai**, acreditamos que tecnologia é para todo mundo e deve ser acess�
 ### 🔐 [MITRE Mapper](https://github.com/junta-ai/mitre-mapper)
 **Sistema Inteligente de Classificação MITRE ATT&CK**
 
+### Vídeo Demo
+[![MITRE ATT&CK Classifier - Vídeo](https://img.youtube.com/vi/SVv-GfqNUVQ/hqdefault.jpg)](https://youtu.be/SVv-GfqNUVQ)
+
 Automatize a análise de incidentes de segurança cibernética usando técnicas avançadas de RAG (Retrieval-Augmented Generation) e processamento de linguagem natural.
 
 **Características:**
